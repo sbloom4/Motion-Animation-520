@@ -1,8 +1,8 @@
 # Out of Place
-<li>Skylar Bloom</li>
-<li>Grisha Coleman, Tejaswi Linge Gowda</li>
-<li>AME 520 Understanding Activity</li>
-<li>04 December 2022</li>
+<h3>Skylar Bloom</h3>
+<h3>Grisha Coleman, Tejaswi Linge Gowda</h3>
+<h3>AME 520 Understanding Activity</h3>
+<h3>04 December 2022</h3>
 <h3>Introduction</h3>
         	<p>Out of Place is a three-dimensional animation created to provide the viewer with an interesting story and visual experience. The idea behind this piece is to confuse the viewer and leave them with more questions than answers. Within the animation there is a character that interacts with a realistic shelf in a world that is unfamiliar to the viewer. The world has an art style that is almost lowpoly and does not provide much detail so having a high-resolution object within the scene naturally draws the user’s eye to it. Within this world, the only character notices this object and struggles to understand the purpose of the shelf and what it should offer.</p>
 <h3>Animation Summary</h3>
